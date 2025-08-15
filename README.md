@@ -51,43 +51,43 @@ This includes:
 ## 🖼️ Media – Screenshots
 
 ### 🔹 osTicket Installation  
-> osTicket installation screen confirming successful setup via localhost.  
+> Installed osTicket on a Windows 10 VM using XAMPP (Apache, PHP, MySQL). Verified successful setup on localhost to prepare the ticketing system for configuration and testing.  
 ![osTicket Installation](screenshots/osTicket%20Installation.png)
 
 ---
 
 ### 🔹 Login to osTicket  
-> Admin login page for accessing osTicket dashboard.  
+> Accessed the osTicket admin dashboard via web browser. Confirmed administrator login functionality to manage users, departments, and tickets.
 ![Login to osTicket](screenshots/Login%20To%20osTicket.png)
 
 ---
 
 ### 🔹 Creating Help Topics  
-> Custom help topics configured to route tickets appropriately.  
+> Configured custom help topics in osTicket to properly categorize and route incoming support tickets to the correct department or agent.
 ![Creating Help Topics](screenshots/Creating%20Help%20Topics%20osTicket.png)
 
 ---
 
 ### 🔹 Setting Up SLA Plans  
-> SLA (Service Level Agreement) plans created for response targets.  
+> Created Service Level Agreement (SLA) plans to define expected response and resolution times for tickets, simulating real-world IT support standards.  
 ![SLA Creation](screenshots/Creating%20Service%20Level%20Agreements%20osTicket.png)
 
 ---
 
 ### 🔹 Agents Created  
-> Support agents added and assigned to departments.  
+> Added support agents, assigned them to departments, and set permissions to manage ticket assignments efficiently.
 ![Agents Created](screenshots/Agents%20Created%20In%20osTicket.png)
 
 ---
 
 ### 🔹 New User Created  
-> Test user account added for simulating end-user ticket submission.  
+> Created a test end-user account to simulate ticket submissions and interactions with the help desk system.  
 ![User Created](screenshots/osTicket%20User%20Created%20.png)
 
 ---
 
 ### 🔹 Ticket Resolved Example  
-> Sample ticket showing full lifecycle: open → assigned → resolved.  
+> Demonstrated a complete ticket lifecycle: ticket submitted by end-user, assigned to an agent, worked on, and resolved according to SLA guidelines.
 ![Ticket Resolved](screenshots/Ticket%20Resolved%20Example.png)
 
 ---
