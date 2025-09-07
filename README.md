@@ -48,7 +48,7 @@ This includes:
 
 ---
 
-## 🖼️ 🛠️ Demonstration Steps (With Screenshots)
+## 🛠️ Demonstration Steps (With Screenshots)
 
 ### 🔹 osTicket Installation  
 > Installed osTicket on a Windows 10 VM using XAMPP (Apache, PHP, MySQL). Verified successful setup on localhost to prepare the ticketing system for configuration and testing.  
